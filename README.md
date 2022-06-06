@@ -28,3 +28,4 @@ https://learn.javascript.ru/courses/htmlcss
 
     - Other
         - [Responsive Images](https://cloudfour.com/thinks/responsive-images-101-definitions/)
+        - [CSS Guidelines/State Hooks](https://github.com/chris-pearce/css-guidelines#state-hooks)

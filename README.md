@@ -22,10 +22,6 @@ https://learn.javascript.ru/courses/htmlcss
         - [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
         - [Селекторы CSS. Виды, группировка и специфичность](https://itchief.ru/html-and-css/selectors)
 
-        - Задачки/игры:
-            - [Знаете ли вы селекторы?](https://learn.javascript.ru/css-selectors#tasks)
-            - [CSS Diner](https://flukeout.github.io/)
-
     - Browser differences
         - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
         - [Normalize.css - A modern, HTML5-ready alternative to CSS resets](https://necolas.github.io/normalize.css/)
@@ -43,7 +39,12 @@ https://learn.javascript.ru/courses/htmlcss
     - Other
         - [Responsive Images](https://cloudfour.com/thinks/responsive-images-101-definitions/)
 
-    - [PR: dz0/01-semantic-mockup](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/2/files)
+    - Задачки/игры:
+        - [Знаете ли вы селекторы?](https://learn.javascript.ru/css-selectors#tasks)
+        - [CSS Diner](https://flukeout.github.io/)
+
+    - PR:
+        - [dz0/01-semantic-mockup](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/2/files)
 
 - Part 2
     - Accessibility and semantic

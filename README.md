@@ -5,6 +5,11 @@ https://learn.javascript.ru/courses/htmlcss
 Содержит теоретические материалы и практические задания.
 
 - Part 1
+    - Basics
+        - [HTML Academy: Основы HTML и CSS](https://htmlacademy.ru/courses/297)
+        - [Прокачиваем навыки отладки с помощью инструментов разработчика Chrome (часть 1)](https://css-live.ru/faq/prokachivaem-navyki-otladki-s-pomoshhyu-instrumentov-razrabotchika-chrome-chast-1.html)
+        - [Прокачиваем навыки отладки с помощью инструментов разработчика Chrome (часть 2)](https://css-live.ru/faq/prokachivaem-navyki-otladki-s-pomoshhyu-instrumentov-razrabotchika-chrome-chast-2.html)
+
     - CSS
         - [Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
         - [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
@@ -13,7 +18,13 @@ https://learn.javascript.ru/courses/htmlcss
         - [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
         - [Inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
         - [Никто не знает CSS: специфичность — не каскад](https://css-live.ru/css/nikto-ne-znaet-css-specifichnost-ne-kaskad.html)
+        - [Каскад в CSS](https://xiper.net/learn/css/inheritance-and-cascade/cascade.html)
         - [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+        - [Селекторы CSS. Виды, группировка и специфичность](https://itchief.ru/html-and-css/selectors)
+
+        - Задачки/игры:
+            - [Знаете ли вы селекторы?](https://learn.javascript.ru/css-selectors#tasks)
+            - [CSS Diner](https://flukeout.github.io/)
 
     - Browser differences
         - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
@@ -29,6 +40,36 @@ https://learn.javascript.ru/courses/htmlcss
         - [Библиотека BEM Components](https://ru.bem.info/libraries/classic/bem-components/6.0.0/)
         - [CSS Guidelines/State Hooks](https://github.com/chris-pearce/css-guidelines#state-hooks)
 
-
     - Other
         - [Responsive Images](https://cloudfour.com/thinks/responsive-images-101-definitions/)
+
+    - [PR: dz0/01-semantic-mockup](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/2/files)
+
+- Part 2
+    - Accessibility and semantic
+        - [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+        - [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+        - [Handling common accessibility problems](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility)
+        - [WAI-ARIA basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
+        - [Как помочь слепым на вашем сайте](https://weblind.ru/)
+        - [HTML test cases: A series of HTML test cases to determine how they are announced in different screen reader / browser combinations](https://russmaxdesign.github.io/accessible-forms/index.html)
+        - [HTML Inputs and Labels: A Love Story](https://css-tricks.com/html-inputs-and-labels-a-love-story/)
+        - [How to Use The HTML5 Sectioning Elements](https://blog.teamtreehouse.com/use-html5-sectioning-elements)
+        - [Продвинутая семантика и доступность](https://webref.ru/layout/advanced-html-css/semantics-accessibility)
+        - [Микроданные](https://webref.ru/layout/diveintohtml5/extensibility)
+        - [Microdata](https://developer.mozilla.org/en-US/docs/Web/HTML/Microdata)
+        - [Забудьте про div, семантика спасёт интернет](https://habr.com/ru/company/htmlacademy/blog/546500/)
+
+    - Flex
+        - [Как работает CSS Flexbox: наглядное введение в систему компоновки элементов на веб-странице](https://tproger.ru/translations/how-css-flexbox-works/)
+        - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+        - [Game: FLEXBOX FROGGY](https://flexboxfroggy.com/#ru)
+        - [Game: Flexbox Defense](http://www.flexboxdefense.com/)
+
+    - Other
+        - [Знакомьтесь, <details>](https://habr.com/ru/post/477520/)
+        - [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+        - [CSS-переменные](https://habr.com/ru/company/ruvds/blog/523370/)
+        - [«Блочных и строчных элементов» в HTML больше нет](https://css-live.ru/articles/blochnyx-i-strochnyx-elementov-v-html-bolshe-net.html)
+        - [spec.whatwg.org - Kinds of content](https://html.spec.whatwg.org/multipage/dom.html#kinds-of-content)
+        - [О «призраках» в CSS и борьбе с ними: анонимные боксы](https://css-live.ru/articles/mysterious-css-anonymous-boxes.html)

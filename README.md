@@ -43,8 +43,8 @@ https://learn.javascript.ru/courses/htmlcss
         - [Знаете ли вы селекторы?](https://learn.javascript.ru/css-selectors#tasks)
         - [CSS Diner](https://flukeout.github.io/)
 
-    - PR:
-        - [dz0/01-semantic-mockup](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/2/files)
+    - Pull Requests:
+        - [Implement 02-dz0/01-semantic-mockup](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/2/files)
 
 - Part 2
     - Accessibility and semantic
@@ -74,3 +74,8 @@ https://learn.javascript.ru/courses/htmlcss
         - [«Блочных и строчных элементов» в HTML больше нет](https://css-live.ru/articles/blochnyx-i-strochnyx-elementov-v-html-bolshe-net.html)
         - [spec.whatwg.org - Kinds of content](https://html.spec.whatwg.org/multipage/dom.html#kinds-of-content)
         - [О «призраках» в CSS и борьбе с ними: анонимные боксы](https://css-live.ru/articles/mysterious-css-anonymous-boxes.html)
+
+    - Pull Requests:
+        - [Implement 03-lection1-main-page-layout](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/4/files)
+        - [Implement 03-lection1-01-button](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/3/files?short_path=2b9adea#diff-2b9adea758ee3c65907b8188ad3aa93c8412d7d7e1f2dc3a22b1bc58153dcd44)
+        - [Implement 03-lection1-02-accordion](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/5/files?short_path=2944b57#diff-2944b5707f5e514b9852674c015b5d4e55ce560265c78e0b0ebf621c9187a1a0)

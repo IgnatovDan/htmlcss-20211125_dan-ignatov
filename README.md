@@ -35,6 +35,7 @@ https://learn.javascript.ru/courses/htmlcss
         - [БЭМ для начинающих. Очевидные и неочевидные вопросы верстки](https://medium.com/@innabelaya/%D0%B1%D1%8D%D0%BC-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-%D0%BE%D1%87%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B8-%D0%BD%D0%B5%D0%BE%D1%87%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8-1a21d67cf840)
         - [Библиотека BEM Components](https://ru.bem.info/libraries/classic/bem-components/6.0.0/)
         - [CSS Guidelines/State Hooks](https://github.com/chris-pearce/css-guidelines#state-hooks)
+        - [Yes, always use @import and external Cascading Style Sheets in your Website!](https://stackoverflow.com/a/45155429)
 
     - Other
         - [Responsive Images](https://cloudfour.com/thinks/responsive-images-101-definitions/)
@@ -45,6 +46,9 @@ https://learn.javascript.ru/courses/htmlcss
 
     - Pull Requests:
         - [Implement 02-dz0/01-semantic-mockup](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/2/files)
+        - [Implement 03-lection1-main-page-layout](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/4/files)
+        - [Implement 03-lection1-01-button](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/3/files?short_path=2b9adea#diff-2b9adea758ee3c65907b8188ad3aa93c8412d7d7e1f2dc3a22b1bc58153dcd44)
+        - [Implement 03-lection1-02-accordion](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/5/files?short_path=2944b57#diff-2944b5707f5e514b9852674c015b5d4e55ce560265c78e0b0ebf621c9187a1a0)
 
 - Part 2
     - Accessibility and semantic
@@ -64,8 +68,6 @@ https://learn.javascript.ru/courses/htmlcss
     - Flex
         - [Как работает CSS Flexbox: наглядное введение в систему компоновки элементов на веб-странице](https://tproger.ru/translations/how-css-flexbox-works/)
         - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-        - [Game: FLEXBOX FROGGY](https://flexboxfroggy.com/#ru)
-        - [Game: Flexbox Defense](http://www.flexboxdefense.com/)
 
     - Other
         - [Знакомьтесь, <details>](https://habr.com/ru/post/477520/)
@@ -75,7 +77,15 @@ https://learn.javascript.ru/courses/htmlcss
         - [spec.whatwg.org - Kinds of content](https://html.spec.whatwg.org/multipage/dom.html#kinds-of-content)
         - [О «призраках» в CSS и борьбе с ними: анонимные боксы](https://css-live.ru/articles/mysterious-css-anonymous-boxes.html)
 
+        - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+        - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
+        - [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+        - [Inside look at modern web browser (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
+
+    - Задачки/игры:
+        - [Game: FLEXBOX FROGGY](https://flexboxfroggy.com/#ru)
+        - [Game: Flexbox Defense](http://www.flexboxdefense.com/)
+
     - Pull Requests:
-        - [Implement 03-lection1-main-page-layout](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/4/files)
-        - [Implement 03-lection1-01-button](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/3/files?short_path=2b9adea#diff-2b9adea758ee3c65907b8188ad3aa93c8412d7d7e1f2dc3a22b1bc58153dcd44)
-        - [Implement 03-lection1-02-accordion](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/5/files?short_path=2944b57#diff-2944b5707f5e514b9852674c015b5d4e55ce560265c78e0b0ebf621c9187a1a0)
+        - [Implement 04-lection2-01-histogram](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/6/files?short_path=e4422d8#diff-e4422d8e31c4acc1a1967640bc62899608239f6f9ba97cfe1347eca5eb90d7cf)
+        - [Implement 04-lection2-02-skeleton](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/7/files?short_path=f48c949#diff-f48c949efce23666f12d440f5482f8e60ba7540ef7434a01d0316f599d33c0db)

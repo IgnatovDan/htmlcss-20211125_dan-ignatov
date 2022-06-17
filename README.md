@@ -89,3 +89,14 @@ https://learn.javascript.ru/courses/htmlcss
     - Pull Requests:
         - [Implement 04-lection2-01-histogram](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/6/files?short_path=e4422d8#diff-e4422d8e31c4acc1a1967640bc62899608239f6f9ba97cfe1347eca5eb90d7cf)
         - [Implement 04-lection2-02-skeleton](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/7/files?short_path=f48c949#diff-f48c949efce23666f12d440f5482f8e60ba7540ef7434a01d0316f599d33c0db)
+
+- Part 3
+    - Grid
+        - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+    
+    - Задачки/игры:
+        - [GRID GARDEN](http://cssgridgarden.com/#ru)
+
+    - Pull Requests:
+        - [Implement 05-lection3-03-calendar](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/8/files?short_path=1ddfed7#diff-1ddfed75fe54125baefee8ede7c60c06c837169d5a1c24e9155083dd65f7afc2)
+        - [Implement 05-lection3-pages-template-html v2](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/10)

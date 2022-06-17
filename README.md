@@ -4,7 +4,7 @@ https://learn.javascript.ru/courses/htmlcss
 
 Содержит теоретические материалы и практические задания.
 
-- Part 1
+- Part 1 (Basics)
     - Basics
         - [HTML Academy: Основы HTML и CSS](https://htmlacademy.ru/courses/297)
         - [Прокачиваем навыки отладки с помощью инструментов разработчика Chrome (часть 1)](https://css-live.ru/faq/prokachivaem-navyki-otladki-s-pomoshhyu-instrumentov-razrabotchika-chrome-chast-1.html)
@@ -50,7 +50,7 @@ https://learn.javascript.ru/courses/htmlcss
         - [Implement 03-lection1-01-button](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/3/files?short_path=2b9adea#diff-2b9adea758ee3c65907b8188ad3aa93c8412d7d7e1f2dc3a22b1bc58153dcd44)
         - [Implement 03-lection1-02-accordion](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/5/files?short_path=2944b57#diff-2944b5707f5e514b9852674c015b5d4e55ce560265c78e0b0ebf621c9187a1a0)
 
-- Part 2
+- Part 2 (Accessibility, semantic, Flex)
     - Accessibility and semantic
         - [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
         - [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
@@ -90,7 +90,7 @@ https://learn.javascript.ru/courses/htmlcss
         - [Implement 04-lection2-01-histogram](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/6/files?short_path=e4422d8#diff-e4422d8e31c4acc1a1967640bc62899608239f6f9ba97cfe1347eca5eb90d7cf)
         - [Implement 04-lection2-02-skeleton](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/7/files?short_path=f48c949#diff-f48c949efce23666f12d440f5482f8e60ba7540ef7434a01d0316f599d33c0db)
 
-- Part 3
+- Part 3 (Grid)
     - Grid
         - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
     

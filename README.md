@@ -4,7 +4,7 @@ https://learn.javascript.ru/courses/htmlcss
 
 Содержит теоретические материалы и практические задания.
 
-- Part 1 (Basics)
+- Part 1 (Cascade, Selectors, Specificity, link/import, Debug, CSS Organization)
     - Basics
         - [HTML Academy: Основы HTML и CSS](https://htmlacademy.ru/courses/297)
         - [Прокачиваем навыки отладки с помощью инструментов разработчика Chrome (часть 1)](https://css-live.ru/faq/prokachivaem-navyki-otladki-s-pomoshhyu-instrumentov-razrabotchika-chrome-chast-1.html)
@@ -19,6 +19,7 @@ https://learn.javascript.ru/courses/htmlcss
         - [Inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
         - [Никто не знает CSS: специфичность — не каскад](https://css-live.ru/css/nikto-ne-znaet-css-specifichnost-ne-kaskad.html)
         - [Каскад в CSS](https://xiper.net/learn/css/inheritance-and-cascade/cascade.html)
+        - [doka.guide: Каскад](https://doka.guide/css/cascade/)
         - [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
         - [Селекторы CSS. Виды, группировка и специфичность](https://itchief.ru/html-and-css/selectors)
 
@@ -28,6 +29,7 @@ https://learn.javascript.ru/courses/htmlcss
         - [What is the difference between Normalize.css and Reset CSS?](https://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css)
 
     - CSS organisation
+        - [doka.guide: Подключение стилей](https://doka.guide/css/adding-styles/)
         - [Способы организации CSS-кода](https://habr.com/ru/post/256109/)
         - [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
         - [BEM - Соглашение по именованию](https://ru.bem.info/methodology/naming-convention/)
@@ -39,6 +41,7 @@ https://learn.javascript.ru/courses/htmlcss
 
     - Other
         - [Responsive Images](https://cloudfour.com/thinks/responsive-images-101-definitions/)
+        - [doka.guide: Подход «Pixel Perfect»](https://doka.guide/css/pixel-perfect/)
 
     - Задачки/игры:
         - [Знаете ли вы селекторы?](https://learn.javascript.ru/css-selectors#tasks)
@@ -50,7 +53,7 @@ https://learn.javascript.ru/courses/htmlcss
         - [Implement 03-lection1-01-button](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/3/files?short_path=2b9adea#diff-2b9adea758ee3c65907b8188ad3aa93c8412d7d7e1f2dc3a22b1bc58153dcd44)
         - [Implement 03-lection1-02-accordion](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/5/files?short_path=2944b57#diff-2944b5707f5e514b9852674c015b5d4e55ce560265c78e0b0ebf621c9187a1a0)
 
-- Part 2 (Accessibility, semantic, Flex)
+- Part 2 (Accessibility, Semantic, Flex)
     - Accessibility and semantic
         - [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
         - [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
@@ -65,8 +68,11 @@ https://learn.javascript.ru/courses/htmlcss
         - [Microdata](https://developer.mozilla.org/en-US/docs/Web/HTML/Microdata)
         - [Забудьте про div, семантика спасёт интернет](https://habr.com/ru/company/htmlacademy/blog/546500/)
 
+    - Концепция библиотеки на React хуках от Яндекс: [Youtube: Создание универсальной UI-библиотеки](https://www.youtube.com/watch?v=0LuKoLJ3zbU&list=PLKaafC45L_SSj9alzlF_saWXX-4GpjXRD&index=2) (+ в этом же списке еще несколько видео докладов по фронтэнду)
+
     - Flex
         - [Как работает CSS Flexbox: наглядное введение в систему компоновки элементов на веб-странице](https://tproger.ru/translations/how-css-flexbox-works/)
+        - [doka.guide: Гайд по flexbox](https://doka.guide/css/flexbox-guide/)
         - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
     - Other
@@ -93,6 +99,7 @@ https://learn.javascript.ru/courses/htmlcss
 - Part 3 (Grid)
     - Grid
         - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+        - [doka.guide: Гайд по grid](https://doka.guide/css/grid-guide/)
     
     - Задачки/игры:
         - [GRID GARDEN](http://cssgridgarden.com/#ru)
@@ -100,3 +107,18 @@ https://learn.javascript.ru/courses/htmlcss
     - Pull Requests:
         - [Implement 05-lection3-03-calendar](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/8/files?short_path=1ddfed7#diff-1ddfed75fe54125baefee8ede7c60c06c837169d5a1c24e9155083dd65f7afc2)
         - [Implement 05-lection3-pages-template-html v2](https://github.com/js-tasks-ru/htmlcss-20211125_dan-ignatov/pull/10)
+
+- Part 4 (Stacking context, Adaptive layout)
+    - [MDN: position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+    - [MDN: Контекст наложения (stacking context)](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
+    - [doka.guide: Контекст наложения](https://doka.guide/css/stacking-context/)
+
+
+--------------------------
+
+TODO, посмотреть подробнее:
+    - Концепция библиотеки на хуках от Яндекс: [Youtube: Создание универсальной UI-библиотеки](https://www.youtube.com/watch?v=0LuKoLJ3zbU&list=PLKaafC45L_SSj9alzlF_saWXX-4GpjXRD&index=2) (+ в этом же списке еще несколько видео докладов по фронтэнду)
+    - [doka.guide: Подход «Pixel Perfect»](https://doka.guide/css/pixel-perfect/)
+    - [doka.guide: Гайд по grid](https://doka.guide/css/grid-guide/)
+    - [doka.guide: Гайд по flexbox](https://doka.guide/css/flexbox-guide/)
+    - [Стажировка: Код для всех](https://foss.kruzhok.org/code-for-all)
